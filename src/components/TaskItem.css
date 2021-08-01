@@ -1,0 +1,23 @@
+.tasks{
+    margin: 0px auto;
+}
+
+.task-item {
+    display: flex;
+    margin-top: 10px;
+}
+
+.task-name {
+    margin-right: auto;
+}
+
+.mark-done {
+    width: 28px;
+    height: 21px;
+    margin: 0;
+}
+
+.done{
+    color: #808080;
+    text-decoration: line-through;
+}
